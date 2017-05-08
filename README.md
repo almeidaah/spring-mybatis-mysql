@@ -34,6 +34,6 @@ O programa realizado é um tanto simples, cabendo diversas melhorias:
 = Especializar as consultas, criando alias e realizando projeções mais específicas(sem select * from...)
 = Implementar outros Mappers para outros Bancos(MongoDB, H2, etc...)
 
-
+==Criação de testes unitários para os serviços 
 
 
